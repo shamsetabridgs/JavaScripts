@@ -1,0 +1,15 @@
+An object is a collection of properties, and a property is an association between a 
+name (or key) and a value. A property's value can be a function, 
+in which case the property is known as method. Objects in JavaScript, 
+just as in many other programming languages, can be compared to objects in real life.
+
+
+Chapter Seven: Objects in JavaScript
+
+student 1:
+math: 80
+chemistry: 75
+physics: 86
+higher math: 90
+
+[80, 75, 86, 90]

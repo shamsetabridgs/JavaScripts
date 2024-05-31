@@ -1,0 +1,11 @@
+
+// ***** Chapter Eight: Functions in Javascript
+
+// What is Functions ??
+
+Function is a block of code which has three part...
+
+1. Input, 2. Output, 3. Processing
+
+var date = new Date()
+date.getFullYear()
